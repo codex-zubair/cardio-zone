@@ -1,0 +1,45 @@
+[
+    {  
+        "id": 1,
+        "name": "Body weight box squats",
+        "details": "Stand tall with your back to a knee-high bench or box 4 to 6 inches behind you. Your feet should be spread shoulder-width apart. Lower your body by pushing back your hips and bending your knees until your butt touches the box or bench",
+        "time": 40,
+        "img": "https://www.yoga-anatomy.com//wp-content/uploads/2016/07/chair_squat-1.png"
+    },
+    
+    {
+        "id": 2,
+        "name": "Push up",
+        "details": "The push-up is a common calisthenics exercise beginning from the prone position. By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids",
+        "time": 30,
+        "img": "https://www.xtremespots.com/wp-content/uploads/2022/06/What-are-the-best-lower-chest-exercises--e1655106117480.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Plank",
+        "details": "The plank strengthens your spine, your rhomboids and trapezius, and your abdominal muscles, which naturally result in a strong posture as they",
+        "time": 60,
+        "img": "https://barbend.com/wp-content/uploads/2019/01/BarBend-Feature-Image-1200-x-675-2021-06-02T165505.056.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Alternating Step Ups",
+        "details": "Alternating Step Ups are a fantastic leg workout exercise! Not only is this exercise low risk for injury, but they also help with toning your thighs and legs",
+        "time": 40,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmYOdRjoCyl0IDgn_ILxyVT75tezPr81e1g&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Dumbbell Biceps Curls",
+        "details": "Biceps curls use dumbbells, barbells, or kettlebells to work the biceps muscles of the arm and build strength and muscle.",
+        "time": 30,
+        "img": "https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-curl.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dumbbell Skull Crusher",
+        "details": "The skull crusher is a good exercise to activate the medial head of the triceps",
+        "time": 30,
+        "img": "https://gym.dromosys.com/media/exercise-images/85/unilateral-skull-crusher.png"
+    }
+]
